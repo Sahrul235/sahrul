@@ -49,8 +49,3 @@
   <a href="https://github.com/Sahrul235"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahrul235&show_icons=true&theme=radium" alt="Sahrul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahrul235&layout=compact&theme=radium" alt="Sahrul's Top Languages" />
-</div>
